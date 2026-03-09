@@ -665,7 +665,7 @@ p {
 
 @media (max-width: 680px) {
   .brand-logo {
-    width: 160px;
+    max-width: 160px;
   }
 
   .hero-content {
